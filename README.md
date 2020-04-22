@@ -1,4 +1,4 @@
-## Laravel form typecasting
+## Laravel extended query builder
 This package is a good way to organize subqueries of your models.
 ### Requirements
 + laravel 5.5+
